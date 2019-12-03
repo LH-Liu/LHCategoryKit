@@ -1,0 +1,22 @@
+{
+  "name": "LHCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LHCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/brilliance_Liu/LHCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "brilliance_Liu": "936373772@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/brilliance_Liu/LHCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LHCategoryKit/Classes/**/*"
+}

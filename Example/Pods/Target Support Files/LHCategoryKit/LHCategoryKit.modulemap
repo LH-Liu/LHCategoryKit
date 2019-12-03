@@ -1,0 +1,6 @@
+framework module LHCategoryKit {
+  umbrella header "LHCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
