@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LHCategoryKit_Example' do
+  pod 'LHCategoryKit', :path => '../'
+
+  target 'LHCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
